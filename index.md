@@ -23,4 +23,4 @@ print 'indent 4 spaces'
 
 This edit was made in vscode!
 
-[Lab Report 1](lab-report-1-week-2.html)
+[Lab Report 1](https://xuethan.github.io/cse15l-lab-reports/lab-report-1-week-2.html)

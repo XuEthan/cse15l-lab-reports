@@ -15,7 +15,8 @@ Hello world!
 ---
 `Inline example`
 
-    # code block
-    print '3 backticks or'
-    print 'indent 4 spaces'
-
+```
+# code block
+print '3 backticks or'
+print 'indent 4 spaces'
+```

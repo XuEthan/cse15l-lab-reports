@@ -9,8 +9,7 @@ This file induces an infinite loop due to the program storing the contents of th
 ![Image](edgecase2screencap.PNG)
 ![Image](ec2sol.PNG)\
 If a set of brackets are present on a line before or after the conventional markdown link format^, an index out of bounds exception is thrown. This is due to there being two open brackets before the first set of parentheses, causing one of the indexOf calls to throw this exception. One way to solve the problem is by checking to see if each line has the valid components of a link in the markdown format.   
->^ [name of link](link address)
-
+>^ ![Image](scforl2.PNG)
 # Bug 3
 [failure_inducing_input_3](edge_case3.md)
 ![Image](edgecase3screencap.PNG)

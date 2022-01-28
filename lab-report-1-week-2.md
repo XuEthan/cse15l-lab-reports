@@ -15,6 +15,5 @@ Files can be moved onto the server using the scp command. Start at the location 
 ![Image](sshkeypass.png)\
 Setting up an SSH key can reduce the hassle in entering a password everytime you would like to access the server, demonstrated in the image above. A private and public key should be generate on your own computer by running "ssh-keygen" without quotations. The final step is to move the public key file to the .ssh directory of your user account on the server.
 ## 6. Optimizing Remote Running 
-![Image](qolssh.PNG)\
-Remote running can be further optimized through additional command line specification. For instance, commands can be run on the server by including them in quotations after the ssh command. Multiple commands can also be run on the same line by seperating them with a semicolon.
-
+![Image](sshqol.PNG)\
+Remote running can be further optimized through additional command line specification as well as utilizing copy pasting and previously entered commands. After the initial keystrokes used to write the command, it would only take 6(mouse click to select + (ctrl+c) + (ctrl+v) + enter) keystrokes to copy a file onto the server and run it after making a local edit(assuming you are already in the directory of that file). Once the command has been run, more time can be saved on future runs by clicking the up arrow once to recall and copy the last command used-while both of these strategies may not save a significant amount of time for a singular run, the time that is saved adds up over the course of tens or hundreds of runs over time. 

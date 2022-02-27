@@ -23,7 +23,7 @@ Test case created to test snippet 1 using my implementation:
 
 ![Image](mytest1.PNG)
 
-$~$
+
 
 Test case created to test snippet 1 using other implementation: 
 ![Image](othertestcase1.PNG)\
@@ -51,7 +51,7 @@ Test case created to test snippet 1 using my implementation:
 
 ![Image](mytest2.PNG)
 
-$~$
+
 
 Test case created to test snippet 1 using other implementation: 
 ![Image](othertestcase2.PNG)\
@@ -98,7 +98,7 @@ Test case created to test snippet 1 using my implementation:
 
 ![Image](mytest3.PNG)
 
-$~$
+
 
 Test case created to test snippet 1 using other implementation: 
 ![Image](othertestcase1.PNG)\

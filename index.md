@@ -28,3 +28,5 @@ This edit was made in vscode!
 [Lab Report 2](https://xuethan.github.io/cse15l-lab-reports/LR_2/lab-report-2-week-4.html)
 
 [Lab Report 3](https://xuethan.github.io/cse15l-lab-reports/LR_3/lab-report-3-week-6.html)
+
+[Lab Report 4](https://xuethan.github.io/cse15l-lab-reports/LR_4/lab-report-4-week-8.html)

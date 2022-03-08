@@ -14,7 +14,8 @@ week 7 peer repository - https://github.com/yih365/markdown-parse
 [`code]`](ucsd.edu)
 ```
 
-We expect that getLinks will retrieve all links in the page despite some not functionally working as a link in the markdown format: 
+We expect that getLinks will retrieve the following links: `google.com, google.com, ucsd.edu. 
+
 ![Image](snip1expect.PNG)
 
 Test case created to test snippet 1 using my implementation: 
@@ -42,7 +43,8 @@ I believe that a small code change less than 10 lines can be made in order to re
 [some escaped \[ brackets \]](example.com)
 ```
 
-We expect that getLinks will retrieve all links in the page despite some not functionally working as a link in the markdown format: 
+We expect that getLinks will retrieve the following links: a.com, a.com(()), example.com
+
 ![Image](snip2expect.PNG)
 
 Test case created to test snippet 1 using my implementation: 
@@ -89,7 +91,8 @@ And there's still some more text after that.
 And then there's more text
 ```
 
-We expect that getLinks will retrieve all links in the page despite some not functionally working as a link in the markdown format: 
+We expect that getLinks will retrieve the following link: https://ucsd-cse15l-w22.github.io/.
+
 ![Image](snip3expect.PNG)
 
 Test case created to test snippet 1 using my implementation: 

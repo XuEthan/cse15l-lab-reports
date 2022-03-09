@@ -47,7 +47,7 @@ We expect that getLinks will retrieve the following links: a.com, a.com(()), exa
 
 ![Image](snip2expect.PNG)
 
-Test case created to test snippet 1 using my implementation: 
+Test case created to test snippet 2 using my implementation: 
 ![Image](mytestcase2.PNG)\
 **Ths case did not pass:**
 
@@ -55,7 +55,7 @@ Test case created to test snippet 1 using my implementation:
 
 
 
-Test case created to test snippet 1 using other implementation: 
+Test case created to test snippet 2 using other implementation: 
 ![Image](othertestcase2.PNG)\
 **This case did not pass:**
 
@@ -95,7 +95,7 @@ We expect that getLinks will retrieve the following link: https://ucsd-cse15l-w2
 
 ![Image](snip3expect.PNG)
 
-Test case created to test snippet 1 using my implementation: 
+Test case created to test snippet 3 using my implementation: 
 ![Image](mytestcase3.PNG)\
 **Ths case did not pass:**
 
@@ -103,8 +103,8 @@ Test case created to test snippet 1 using my implementation:
 
 
 
-Test case created to test snippet 1 using other implementation: 
-![Image](othertestcase1.PNG)\
+Test case created to test snippet 3 using other implementation: 
+![Image](othertestcase3.PNG)\
 **This case did not pass:**
 
 ![Image](othertest3.PNG)

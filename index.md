@@ -31,4 +31,4 @@ This edit was made in vscode!
 
 [Lab Report 4](https://xuethan.github.io/cse15l-lab-reports/LR_4/lab-report-4-week-8.html)
 
-[Lab Report 4](https://xuethan.github.io/cse15l-lab-reports/LR_5/lab-report-5-week-10.html)
+[Lab Report 5](https://xuethan.github.io/cse15l-lab-reports/LR_5/lab-report-5-week-10.html)
